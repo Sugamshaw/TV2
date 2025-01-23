@@ -1,9 +1,15 @@
 package com.example.tv2
 
 data class CardItem(
-    val title: String,
-    val description: String,
-    val imageUrl: String
+//    val title: String,
+//    val description: String,
+//    val imageUrl: String,
+    val price:String,
+    val productUrl:String,
+    val productTitle:String,
+    val productDescription:String,
+    val mrpPrice:String,
+    val choice:Int
 )
 
 object MovieList {

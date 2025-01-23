@@ -1,4 +1,4 @@
-//package com.example.tv2
+//package newexample
 //
 //import android.os.Bundle
 //import androidx.fragment.app.FragmentActivity
@@ -10,7 +10,7 @@
 //
 //    override fun onCreate(savedInstanceState: Bundle?) {
 //        super.onCreate(savedInstanceState)
-//        setContentView(R.layout.activity_details)
+//        setContentView(R.layout.activity_details2)
 //        if (savedInstanceState == null) {
 //            supportFragmentManager.beginTransaction()
 //                .replace(R.id.details_fragment, VideoDetailsFragment())

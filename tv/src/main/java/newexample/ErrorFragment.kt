@@ -1,4 +1,4 @@
-//package com.example.tv2
+//package newexample
 //
 //import android.os.Bundle
 //import android.view.View

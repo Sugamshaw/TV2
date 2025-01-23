@@ -1,4 +1,4 @@
-//package com.example.tv2
+//package newexample
 //
 //import androidx.leanback.widget.AbstractDetailsDescriptionPresenter
 //

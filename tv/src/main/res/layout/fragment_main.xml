@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.leanback.widget.VerticalGridView
+    android:id="@+id/gridView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+
+
+    <!--<androidx.leanback.widget.BrowseFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    android:id="@+id/browse_frame_layout"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    &lt;!&ndash; You can add your other UI elements, like a background image or headers, here &ndash;&gt;-->
+<!--    <androidx.leanback.widget.VerticalGridView-->
+<!--        android:id="@+id/gridView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent" />-->
+
+<!--</androidx.leanback.widget.BrowseFrameLayout>-->
